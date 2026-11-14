@@ -1,6 +1,8 @@
-# Shabeer Ahamed
+![Shabeer Ahamed — Biomedical Science, Microbiology, Medical Devices and QC/QA](assets/profile-banner.png)
 
-### Biomedical Science · Microbiology · Medical Devices · QC/QA
+<p align="center"><a href="#experience">Experience</a> &nbsp; · &nbsp; <a href="#education-and-practical-training">Education</a> &nbsp; · &nbsp; <a href="#academic-work">Academic work</a> &nbsp; · &nbsp; <a href="#skills-and-areas-of-development">Skills</a> &nbsp; · &nbsp; <a href="#connect">Connect</a></p>
+
+---
 
 Galway, Ireland · [LinkedIn](https://www.linkedin.com/in/shabeer-ahamed-4582a41bb/)
 
@@ -16,11 +18,18 @@ My interests connect laboratory science with product development, quality and pa
 | Avigen Biotech, Chennai | Microbiology Trainee & Research Assistant | Feb–Mar 2024 |
 | Alpha LifeCare, Cuddalore | Quality Control Internship | May 2023–Jan 2024 |
 
+<details>
+<summary><b>Explore my laboratory and manufacturing experience</b></summary>
+
 **Medical-device manufacturing:** manufactured and inspected orthopaedic implant components, followed production procedures and maintained production records at Zimmer Biomet.
 
 **Microbiology:** trainee experience in microbial culturing, antibiotic susceptibility testing, environmental monitoring, microscopy, sample preparation and laboratory record-keeping at Avigen Biotech.
 
 **Quality control:** internship experience in microbiological testing, PCR-based analyses, laboratory documentation and data-analysis support at Alpha LifeCare. This was an internship, not a senior quality or regulatory position.
+
+</details>
+
+---
 
 ## Education and practical training
 
@@ -33,6 +42,8 @@ Studies in medical microbiology, molecular biology, immunology, virology and res
 **Molecular diagnostics internship · Veridian Micro Lab Pvt. Ltd. · Sep–Oct 2022**  
 Training in molecular diagnostic workflows, including PCR, RT-PCR, Western blotting and colorimetry.
 
+---
+
 ## Academic work
 
 - **Tissue engineering and biomaterials:** taught-module group coursework on 3D-printed PLA scaffolds for tissue-engineering applications. This was collaborative coursework, rather than an individual dissertation.
@@ -41,7 +52,12 @@ Training in molecular diagnostic workflows, including PCR, RT-PCR, Western blott
 
 Project reports are not yet published here. Any future uploads will identify the original assignment, group context, my contribution and limitations.
 
+---
+
 ## Skills and areas of development
+
+<kbd>Microbiology</kbd> <kbd>PCR / RT-PCR training</kbd> <kbd>Medical devices</kbd> <kbd>Quality documentation</kbd>
+
 
 | Area | Background |
 | --- | --- |
@@ -54,9 +70,16 @@ Project reports are not yet published here. Any future uploads will identify the
 
 Clinical research and regulatory affairs are development areas, not claims of clinical-trial management or regulatory-submission experience. Academic and internship techniques are distinguished from professional manufacturing experience.
 
+<details>
+<summary><b>How I label portfolio work and protect confidential information</b></summary>
+
 ## Portfolio approach
 
 This portfolio will bring together selected academic work and independent learning projects. Educational examples and synthetic datasets will be labelled clearly. No confidential employer records, identifiable patient data or private reference documents will be published.
+
+</details>
+
+---
 
 ## Connect
 
