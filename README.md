@@ -1,41 +1,65 @@
 # Shabeer Ahamed
 
-### Biomedical Sciences | Microbiology | QC/QA
+### Biomedical Science · Microbiology · Medical Devices · QC/QA
 
-I'm a biomedical sciences graduate based in Ireland, with an MSc in Biomedical Sciences and a BSc in Microbiology. My background combines trainee/intern microbiology laboratory experience with regulated medical-device manufacturing and quality-related work.
+Galway, Ireland · [LinkedIn](https://www.linkedin.com/in/shabeer-ahamed-4582a41bb/)
 
-I'm interested in research and development, clinical research, and regulatory affairs, including the EU Medical Device Regulation (MDR) and US FDA medical-device requirements. I want to build on my laboratory and industry experience in work that supports reliable research, product quality and patient safety.
+I'm an MSc Biomedical Science graduate from the University of Galway, with a BSc in Microbiology from Madras Christian College. My experience spans microbiology laboratory training, a quality-control internship and orthopaedic implant manufacturing.
 
-## Experience and academic training
+My interests connect laboratory science with product development, quality and patient safety. I'm looking to build on this background through biomedical R&D, microbiology, QC/QA, clinical research support or entry-level regulatory affairs.
 
-- **Microbiology:** trainee/intern laboratory experience, including product sterility testing.
-- **Medical devices:** experience in regulated manufacturing and QC/QA-related activities.
-- **Cell culture:** supervised practical training with HeLa cells.
-- **Molecular biology:** practical RT-PCR training and academic exposure to sequencing and primer design.
-- **Analytical techniques:** hands-on HPLC training during university laboratory practicals.
-- **Biomedical research:** taught-module group coursework involving scaffold-related biomedical research. This was coursework, not an individual research dissertation.
+## Experience
 
-The laboratory techniques above reflect different levels of training and experience, not independent proficiency in every method.
+| Organisation | Role | Dates |
+| --- | --- | --- |
+| Zimmer Biomet, Galway | Product Builder, 3D Manufacturing Unit | Apr–Oct 2026 |
+| Avigen Biotech, Chennai | Microbiology Trainee & Research Assistant | Feb–Mar 2024 |
+| Alpha LifeCare, Cuddalore | Quality Control Internship | May 2023–Jan 2024 |
 
-## Research and professional interests
+**Medical-device manufacturing:** manufactured and inspected orthopaedic implant components, followed production procedures and maintained production records at Zimmer Biomet.
 
-- **Research and development:** microbiology, biomedical materials, experimental design and interpretation of scientific evidence.
-- **Clinical research:** study methodology, research ethics, data quality and the connection between laboratory findings and clinical evidence.
-- **Quality assurance and quality control:** reliable testing, accurate records and quality systems in regulated environments.
-- **Regulatory affairs:** EU MDR and US FDA medical-device requirements, with particular interest in technical documentation, clinical evidence and post-market activities.
+**Microbiology:** trainee experience in microbial culturing, antibiotic susceptibility testing, environmental monitoring, microscopy, sample preparation and laboratory record-keeping at Avigen Biotech.
 
-Clinical research and regulatory affairs are areas I want to develop further; they are not presented here as established professional specialisms.
+**Quality control:** internship experience in microbiological testing, PCR-based analyses, laboratory documentation and data-analysis support at Alpha LifeCare. This was an internship, not a senior quality or regulatory position.
 
-## About this portfolio
+## Education and practical training
 
-This profile is a starting point for sharing selected academic work and independent learning projects. Each published project will identify its purpose, sources, methods, limitations and my individual contribution. Group coursework will be labelled as group work.
+**MSc Biomedical Science · University of Galway · 2024–2025**  
+Academic work in biomedical research, tissue engineering, medical devices and healthcare regulatory affairs. Practical training includes supervised HeLa cell culture and university HPLC practicals.
 
-Practice datasets and mock regulatory or quality documents will be clearly labelled as educational examples, not validated studies, approved procedures or regulatory submissions. Confidential employer information and identifiable patient data will not be shared.
+**BSc Microbiology · Madras Christian College · 2020–2023**  
+Studies in medical microbiology, molecular biology, immunology, virology and research methodology, supported by laboratory practicals.
 
-<!-- Add links to completed, publicly shareable projects here. Do not list planned projects as completed work. -->
+**Molecular diagnostics internship · Veridian Micro Lab Pvt. Ltd. · Sep–Oct 2022**  
+Training in molecular diagnostic workflows, including PCR, RT-PCR, Western blotting and colorimetry.
 
-## Opportunities
+## Academic work
 
-I'm interested in opportunities in biomedical research, R&D support, microbiology, QC/QA, clinical research support and entry-level regulatory affairs where my qualifications and transferable experience are relevant.
+- **Tissue engineering and biomaterials:** taught-module group coursework on 3D-printed PLA scaffolds for tissue-engineering applications. This was collaborative coursework, rather than an individual dissertation.
+- **Biomedical literature review:** academic review work on artificial intelligence in cardiac diagnostics and drug discovery.
+- **Healthcare regulatory affairs:** academic projects and learning covering medical devices, EU MDR 2017/745 and US FDA requirements.
 
-<!-- Optional: add your verified LinkedIn URL and a professional contact address you are comfortable making public. -->
+Project reports are not yet published here. Any future uploads will identify the original assignment, group context, my contribution and limitations.
+
+## Skills and areas of development
+
+| Area | Background |
+| --- | --- |
+| Microbiology | Culturing, aseptic practices, microscopy, environmental monitoring and microbiological QC exposure through trainee/intern roles |
+| Molecular techniques | PCR and RT-PCR training; sequencing and primer-design exposure |
+| Scientific tools | BioEdit, MEGA and NCBI for academic/training sequence-analysis work |
+| Quality | Procedure-following, laboratory and production records, and experience in regulated medical-device manufacturing |
+| Regulatory affairs | Academic exposure to EU MDR and FDA requirements; interest in technical documentation, clinical evidence and post-market activities |
+| Clinical research | Career interest in study support, research ethics, documentation and data quality |
+
+Clinical research and regulatory affairs are development areas, not claims of clinical-trial management or regulatory-submission experience. Academic and internship techniques are distinguished from professional manufacturing experience.
+
+## Portfolio approach
+
+This portfolio will bring together selected academic work and independent learning projects. Educational examples and synthetic datasets will be labelled clearly. No confidential employer records, identifiable patient data or private reference documents will be published.
+
+## Connect
+
+I'm interested in laboratory, research-support and quality opportunities, alongside entry-level pathways into clinical research and regulatory affairs.
+
+[Connect with me on LinkedIn](https://www.linkedin.com/in/shabeer-ahamed-4582a41bb/)
